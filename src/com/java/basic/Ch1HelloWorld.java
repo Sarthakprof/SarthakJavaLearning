@@ -1,7 +1,7 @@
 package com.java.basic;
 
 
-public class HelloWorld {
+public class Ch1HelloWorld {
 	
 	public static void main(String args[]) {
 		

@@ -1,6 +1,6 @@
 package com.java.basic;
 
-public class ExpressionsExample {
+public class Ch2ExpressionsExample {
 
 	public static void main(String args[]) {
 

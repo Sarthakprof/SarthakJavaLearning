@@ -1,6 +1,6 @@
 package com.java.basic;
 
-public class VariablesExamples {
+public class Ch3VariablesExamples {
 
 	public static void main(String[] args) {
 		
