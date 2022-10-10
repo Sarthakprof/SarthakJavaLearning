@@ -6,7 +6,7 @@ public class Ch7aMultiplicationTable {
 		
 		//Create instance of Multiplication Table class
 		Ch7MultiplicationTable table = new Ch7MultiplicationTable();
-		table.print();
+		table.print(4);
 
 	}
 
