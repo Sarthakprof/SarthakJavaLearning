@@ -23,7 +23,7 @@ public class Ch6ClassAndMethod {
 		Ch6ClassAndMethod obj = new Ch6ClassAndMethod();
 		obj.revolve2();
 		
-		//accessing variables from ojbects
+		//accessing variables from objects
 		System.out.println(obj.var1);
 	}
 
